@@ -1,4 +1,4 @@
-# password-manager
+# password-manager with encryption
 
 Will need the following packages:
 os,
